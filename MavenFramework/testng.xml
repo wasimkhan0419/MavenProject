@@ -7,5 +7,6 @@
       <class name="Multitest.MouseHovering"/>
       <class name="Multitest.TestNgScripts"/>
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test suites
+   -->
 </suite> <!-- Suite -->
